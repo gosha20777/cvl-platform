@@ -3,7 +3,7 @@ alembic==0.6.7
 argparse
 # azure==0.7.1
 closure_linter
-django-analytical==2.0.0
+django-analytical==3.1.0
 django-appconf==1.0
 django-compressor==2.2
 django-configurations==2.0
