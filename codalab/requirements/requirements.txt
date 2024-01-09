@@ -1,5 +1,5 @@
 Django==1.11.29
-alembic==0.6.7
+alembic==1.13.1
 argparse
 # azure==0.7.1
 closure_linter
