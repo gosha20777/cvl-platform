@@ -66,7 +66,7 @@
                             $('#submit-button').prop('disabled', true).html('Nice!')
                             $('#details').html('Congratulations! ' +
                                 "Your new competition is ready to <a href='/competitions/" + data.id + "'>view</a>. " +
-                                "You can also manage it from <a href='/my/#my_managing'>your CodaLab dashboard.</a>"
+                                "You can also manage it from <a href='/my/#my_managing'>your CVL Platform dashboard.</a>"
                             );
                         } else if (data.status == 'failed') {
                             $('#details').html('<div class="alert alert-error">Oops! There was a problem creating the competition: <br><pre>' + data.error + '</pre></div>');

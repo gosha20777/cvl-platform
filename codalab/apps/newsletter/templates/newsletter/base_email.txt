@@ -6,7 +6,7 @@ Hello {{ user.username }},
 {% if not mass_email %}
 Thanks,
 
-CodaLab Team
+CVL Platform Team
 {% endif %}
 
 

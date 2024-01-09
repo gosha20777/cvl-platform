@@ -1,7 +1,4 @@
-![CodaLab logo](codalab/apps/web/static/img/codalab-logo-fullcolor-positive.png) [![Circle CI](https://circleci.com/gh/codalab/codalab-competitions.svg?style=shield)](https://circleci.com/gh/codalab/codalab-competitions)
-[![codecov](https://codecov.io/gh/codalab/codalab-competitions/branch/develop/graph/badge.svg)](https://codecov.io/gh/codalab/codalab-competitions)
-
-
+![CodaLab logo](codalab/apps/web/static/img/codalab-logo-fullcolor-positive.png) 
 
 ## What is CodaLab?
 
